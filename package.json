@@ -1,0 +1,26 @@
+{
+  "name": "haken",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": "./src/index.mjs",
+  "types": "./src/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "tsd": "^0.21.0",
+    "typescript": "^4.5.4"
+  },
+  "engines": {
+    "node": ">= 16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Siilwyn/haken.git"
+  },
+  "author": "Selwyn <talk@selwyn.cc> (https://selwyn.cc/)",
+  "license": "ISC",
+  "keywords": []
+}
